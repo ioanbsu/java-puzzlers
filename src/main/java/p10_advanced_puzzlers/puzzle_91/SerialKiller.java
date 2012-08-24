@@ -1,3 +1,5 @@
+package p10_advanced_puzzlers.puzzle_91;
+
 import java.io.*;
 import java.util.HashSet;
 import java.util.Set;

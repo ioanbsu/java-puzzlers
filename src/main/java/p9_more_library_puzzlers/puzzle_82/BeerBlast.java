@@ -1,3 +1,5 @@
+package p9_more_library_puzzlers.puzzle_82;
+
 public class BeerBlast {
     static final String COMMAND = "java BeerBlast slave";
 

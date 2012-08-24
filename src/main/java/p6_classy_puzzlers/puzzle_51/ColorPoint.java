@@ -1,3 +1,5 @@
+package p6_classy_puzzlers.puzzle_51;
+
 class Point {
     protected final int x, y;
     private final String name; // Cached at construction time

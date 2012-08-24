@@ -1,3 +1,5 @@
+package p7_library_puzzlers.puzzle_56;
+
 import java.math.BigInteger;
 
 public class BigProblem {
