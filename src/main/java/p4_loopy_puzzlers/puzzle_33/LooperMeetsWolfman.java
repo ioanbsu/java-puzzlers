@@ -1,0 +1,1 @@
+package p4_loopy_puzzlers.puzzle_33;public class LooperMeetsWolfman {    public static void main(String[] args) {        // Place your declaration for i here        while (i != 0 && i == -i) {        }    }}
